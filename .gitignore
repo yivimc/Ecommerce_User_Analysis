@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Raw Dataset
+data/*.csv
+
+# Temporary Files
+*.tmp
+*.log
