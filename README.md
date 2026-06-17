@@ -29,7 +29,11 @@ This project attempts to answer these questions using real-world user behavior d
 ---
 
 ## Dataset Description
+### Dataset Notice
 
+Due to GitHub file size limitations, the original dataset (`UserBehavior.csv`) and intermediate processed files are not included in this repository.
+
+This project is based on the Alibaba Tianchi UserBehavior Dataset. Users may download the dataset independently and place it under the `data/` directory to reproduce the analysis workflow.
 ### Data Source
 
 Alibaba Tianchi UserBehavior Dataset
