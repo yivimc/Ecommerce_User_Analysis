@@ -69,8 +69,8 @@ After random sampling:
 Ecommerce_User_Analysis/
 
 ├── data/
-│   ├── sample.csv
-│   └── cleaned_data.csv
+│   ├── Dataset omitted due to GitHub size limitations
+│   
 │
 ├── notebook/
 │   ├── 00_prepare_data.ipynb
